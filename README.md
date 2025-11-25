@@ -42,7 +42,7 @@ plt.plot(t, s)
 
 Tabular Column:
 
-![5th table](https://github.com/user-attachments/assets/85f44e15-9734-483c-8d4f-d2b17b19b70b)
+![AM PYTHON](https://github.com/user-attachments/assets/a5e89c8e-28e3-4839-a2a7-441b64a75b72)
 
 # Algorithm:
 
